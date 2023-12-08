@@ -1,6 +1,6 @@
 **ENHANCING HOSPITALITY OPERATION: SPLENDOL HOTEL GROUP**
 
-!()[hotel.jpeg]
+![](hotel.jpeg)
 
 **INTRODUCTION**
 
