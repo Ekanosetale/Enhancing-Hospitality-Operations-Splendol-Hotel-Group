@@ -1,3 +1,5 @@
+**ENHANCING HOSPITALITY OPERATION: SPLENDOL HOTEL GROUP**
+!()[]
 **INTRODUCTION**
 
 Splendor Hotel Groups (SHG) aimed to enhance their services using data insights. As a Data Analyst, my task was to study booking records, uncover trends, and propose ideas for SHG's improvement. We analyzed booking trends, customer behaviors, cancellations, revenue flow, and operational details to optimize SHG's performance. Our investigation spanned various aspects: booking changes over time, guest preferences, and their impact on SHG's operations. Our report offers insights and suggestions to boost SHG's efficiency, revenue, and guest experiences. Join us to discover exciting findings in SHG's booking data for smarter decision-making.
