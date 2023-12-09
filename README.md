@@ -8,8 +8,10 @@ Splendor Hotel Groups (SHG) aimed to enhance their services using data insights.
 offers insights and suggestions to boost SHG's efficiency, revenue, and guest experiences. Join us to discover exciting findings in SHG's booking data for smarter decision-making.
 
 **AN OVERVIEW OF THE DATASET**
+
 ![](RAWSHG.png) 
-![](
+![](rawshg2.png)
+
 **BUSINESS OBJECTIVES**
 
 **Booking Patterns:**
@@ -135,6 +137,9 @@ I finally created the business intelligence dashboard using Power BI, where I ma
 5. Color selections
 6. Insert Image
 7. colorhunt.co
+
+   **THE DASHBOARD**
+   ![]()
 
 **BUSINESS INSIGHT ANALYSIS**
 
