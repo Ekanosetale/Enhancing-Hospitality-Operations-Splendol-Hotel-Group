@@ -140,6 +140,7 @@ I finally created the business intelligence dashboard using Power BI, where I ma
 
    **THE DASHBOARDS**
     ![](SHG1.jpg)
+   ![](SHG22.png)
   
 
 **BUSINESS INSIGHT ANALYSIS**
