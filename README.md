@@ -138,8 +138,9 @@ I finally created the business intelligence dashboard using Power BI, where I ma
 6. Insert Image
 7. colorhunt.co
 
-   **THE DASHBOARD**
-   ![]()
+   **THE DASHBOARDS**
+    ![](SHG1.jpg)
+  
 
 **BUSINESS INSIGHT ANALYSIS**
 
