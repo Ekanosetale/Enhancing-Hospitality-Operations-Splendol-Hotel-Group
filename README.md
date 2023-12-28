@@ -9,7 +9,7 @@ offers insights and suggestions to boost SHG's efficiency, revenue, and guest ex
 
 **AN OVERVIEW OF THE DATASET**
 ![](RAWSHG.png) 
-![]rawshg2.png)
+![](rawshg2.png)
 
 
 **BUSINESS OBJECTIVES**
