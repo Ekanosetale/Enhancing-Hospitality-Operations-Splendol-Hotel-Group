@@ -9,9 +9,7 @@ offers insights and suggestions to boost SHG's efficiency, revenue, and guest ex
 
 **AN OVERVIEW OF THE DATASET**
 
-![](0019.png) 
-![](0018.png)
-![](0017.png)
+
 **BUSINESS OBJECTIVES**
 
 **Booking Patterns:**
