@@ -77,40 +77,7 @@ offers insights and suggestions to boost SHG's efficiency, revenue, and guest ex
 
 The data for this project was provided by the CEO of Splendol Hotel Group Mr Uchenna Splendol via Google Drive. The dataset has the following columns:
 
-●	Booking ID: Unique identifier for each booking.
-
-●	Hotel: Type or name of the hotel within the Splendor Hotel Group.
-
-●	Booking Date: Date when the booking was made.
-
-●	Arrival Date: The date when the guests are scheduled to arrive.
-
-●	Lead Time: Number of days between the booking date and arrival date.
-
-●	Nights: Number of nights the guests are booked to stay.
-
-●	Guests: Number of guests included in the booking.
-
-●	Distribution Channel: The channel through which the booking was made (e.g., Direct, Online Travel Agent, Offline Travel Agent).
-
-●	Customer Type: The type of customer making the booking (e.g., Transient, Corporate).
-
-●	Country: Country of origin of the guests.
-
-●	Deposit Type: Whether a deposit was made for the booking (e.g., No Deposit, Deposit).
-
-●	Avg Daily Rate: Average daily rate for the booking.
-
-●	Status: Status of the booking (e.g., Check-Out, Canceled).
-
-●	Status Update: Date of the last status update for the booking.
-
-●	Canceled (0/1): Binary indicator of whether the booking was cancelled (1 if cancelled, 0 if not cancelled).
-
-●	Revenue: Revenue generated from the booking.
-
-●	Revenue Loss: Loss in revenue if the booking was cancelled (negative value if the booking wasn't cancelled).
-
+Booking ID,	Hotel, Booking Date, Arrival Date, Lead Time,	Nights,	Guests,	Distribution Channel (e.g, Direct, Online Travel Agent, Offline Travel Agent), Customer Type(e.g, Transient, Corporate), Country, Deposit Type(e.g, No Deposit, Deposit), Average Daily Rate, Status (e.g, Check-Out, Canceled), Status Update,	Canceled (0/1),	Revenue,	Revenue Loss(negative value if the booking wasn't cancelled).
 To gain initial insight into the data, Microsoft Excel was used. The vast functions of Excel and its ease of navigation made it my tool of first choice. To begin with, I simply opened the file in Excel before importing it to Power BI.
 
 **DATA CLEANING AND TRANSFORMATION**
