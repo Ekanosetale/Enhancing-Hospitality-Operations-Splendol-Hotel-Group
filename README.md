@@ -8,6 +8,8 @@ Splendor Hotel Groups (SHG) aimed to enhance their services using data insights.
 offers insights and suggestions to boost SHG's efficiency, revenue, and guest experiences. Join us to discover exciting findings in SHG's booking data for smarter decision-making.
 
 **AN OVERVIEW OF THE DATASET**
+![](0019.png) 
+![](0018.png)
 
 
 **BUSINESS OBJECTIVES**
