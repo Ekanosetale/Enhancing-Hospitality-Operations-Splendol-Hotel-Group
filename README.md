@@ -106,9 +106,9 @@ I finally created the business intelligence dashboard using Power BI, where I ma
 7. colorhunt.co
 
    **THE DASHBOARDS**
-   ![](0019.png)
+   ![](20.png)
    ![](0017.png)
-   ![](0018.png)
+   ![](21.png)
 
 **BUSINESS INSIGHT ANALYSIS**
 
