@@ -120,7 +120,7 @@ Upon analysis, it was noted that hotel bookings peaked in the first quarter of e
 
 **Lead Time Analysis across Different Booking Channels:**
 How does lead time vary across different booking channels, and is there a correlation between lead time and customer type?
-Among the various booking channels, the offline travel agent had the highest average lead time of 136.6, accounting for 36.7%, followed by the corporate booking channel with an average lead time of 108, representing 29.3%. The direct booking channel showed an average lead time of 57.9, making up 15.6%. Online travel agents exhibited the shortest average time of 45, constituting 12% of the entire lead time.
+Among the various booking channels, the offline travel agent had the highest average lead time of 136.6, accounting for 36.7%, followed by the online travel agent  with an average lead time of 108, representing 29.3%. The direct booking channel showed an average lead time of 57.9, making up 15.6%. Corporate booking channel exhibited the shortest average time of 45, constituting 12% of the entire lead time.
 ![](003.png)
 **Customer Behavior Analysis:**
 Which distribution channels contribute the most to bookings, and how does the average daily rate (ADR) differ across these channels?
