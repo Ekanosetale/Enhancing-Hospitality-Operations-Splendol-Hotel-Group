@@ -136,7 +136,8 @@ What factors strongly correlate with cancellations, and can we predict potential
 It was found that bookings made with no deposit had the highest cancellation rate of 67%, followed by those under the non-refundable deposit type with a cancellation rate of 33%. Among booking channels, online travel agents exhibited 
 the highest cancellation rate of 72%, while offline travel agents had a 19% cancellation rate. In terms of customer type, transient customers had the highest cancellation rate of 83%, followed by transient-party customers at 14.5%.
 remain1
-
+![](0011.png)
+![](0010.png)
 **Comparison of Revenue Loss from Cancellations:**
 How does the revenue loss from cancellations compare across different customer segments and distribution channels?
 The revenue loss due to cancellation was highest among transient customers, valued at $12 million, representing 88% of the total loss, averaging $2.4 million annually. Following this, online travel agents experienced a total revenue loss of $11 million, representing 82% of the total loss, averaging $2.2 million per annum.
