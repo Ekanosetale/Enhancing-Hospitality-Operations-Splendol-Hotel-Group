@@ -145,7 +145,7 @@ The revenue loss due to cancellation was highest among transient customers, valu
 
 **Operational Efficiency:**
 The average guest stay duration is three days. Contract customers have the longest average stay, averaging five days, significantly differing from other customer types. Additionally, check-out dates peak in the third quarter of the year, with August having the highest check-out frequency.
-![here](9.png)
+![](0016.png)
 **Analysis of Corporate Bookings:**
 Corporate bookings accounted for 6% of the total bookings, totalling 6,677. The Average Daily Rate (ADR) from corporate bookings ranked as the fourth highest, standing at 17%. Corporate bookings were most prevalent in January, October, February, and September, respectively.
 
