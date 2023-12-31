@@ -116,12 +116,12 @@ I finally created the business intelligence dashboard using Power BI, where I ma
 What trends exist in booking patterns over time, and are there specific seasons or months with increased booking activity?
 Upon analysis, it was noted that hotel bookings peaked in the first quarter of each year, totalling 40,077 bookings, representing 33.5% of the total bookings. January recorded the highest number of bookings, with 16,688, constituting 13.9% of the quarter's total, followed by February with 13,468 bookings, accounting for 11% of the quarter's total and the last quarter of the year closely followed, with 30,862 bookings, representing 25.8%. October stood out in this quarter, registering the highest booking of 12,129, amounting to 10% of the total for that quarter. In the second quarter, she had the lowest bookings, totalling 22,538, representing 18.9%, with June recording the least bookings for the quarter.
 
-![here](4.png)
+![here](22.png)
 
 **Lead Time Analysis across Different Booking Channels:**
 How does lead time vary across different booking channels, and is there a correlation between lead time and customer type?
 Among the various booking channels, the offline travel agent had the highest average lead time of 136.6, accounting for 36.7%, followed by the corporate booking channel with an average lead time of 108, representing 29.3%. The direct booking channel showed an average lead time of 57.9, making up 15.6%. Online travel agents exhibited the shortest average time of 45, constituting 12% of the entire lead time.
-![here](8.png)
+![here](2.png)
 **Customer Behavior Analysis:**
 Which distribution channels contribute the most to bookings, and how does the average daily rate (ADR) differ across these channels?
 The online travel agent contributed the most to bookings, with a total of 74,072, representing 62% of the entire bookings.
