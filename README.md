@@ -154,7 +154,7 @@ Corporate bookings accounted for 6% of the total bookings, totalling 6,677. The 
 
 **Time-to-Event Analysis:**
 In analyzing lead time (ranging from 0 to 737), I segmented it into four equal parts: Short Time, Mid Time, Long Time, and Extended Time, corresponding to multiples of 1, 2, 3, and 4, respectively. The Short Time segment generated the highest revenue, totalling $24 million, representing 80% of the total revenue. Conversely, the Extended segment generated the least revenue. This illustrates that lead time significantly impacts revenue, with longer lead times resulting in lower revenue. Moreover, the cancellation rate is higher among extended customers, accounting for 39% of total cancellations, whereas the Short-Time segment exhibited the lowest cancellation rate at 13%.
-
+![](24.png)
 **Findings/ Insight**
 Based on the comprehensive analysis conducted, several key findings emerged:
 
