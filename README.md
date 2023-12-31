@@ -141,11 +141,14 @@ remain1
 **Comparison of Revenue Loss from Cancellations:**
 How does the revenue loss from cancellations compare across different customer segments and distribution channels?
 The revenue loss due to cancellation was highest among transient customers, valued at $12 million, representing 88% of the total loss, averaging $2.4 million annually. Following this, online travel agents experienced a total revenue loss of $11 million, representing 82% of the total loss, averaging $2.2 million per annum.
-![here](6.png)
+
+![](6.png)
 
 **Operational Efficiency:**
 The average guest stay duration is three days. Contract customers have the longest average stay, averaging five days, significantly differing from other customer types. Additionally, check-out dates peak in the third quarter of the year, with August having the highest check-out frequency.
+
 ![](0016.png)
+
 **Analysis of Corporate Bookings:**
 Corporate bookings accounted for 6% of the total bookings, totalling 6,677. The Average Daily Rate (ADR) from corporate bookings ranked as the fourth highest, standing at 17%. Corporate bookings were most prevalent in January, October, February, and September, respectively.
 
@@ -165,7 +168,7 @@ Based on the comprehensive analysis conducted, several key findings emerged:
 2.	**Lead Time Analysis across Booking Channels:**
 •	Offline travel agents and corporate bookings showed longer lead times compared to direct and online channels.
 
-3.**	Customer Behavior Analysis:**
+3. **Customer Behavior Analysis:**
 •	Online travel agents contributed significantly to bookings, making up 62% of total bookings.
 
 4.	**Impact of Guest Country on Revenue**
