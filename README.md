@@ -134,10 +134,10 @@ The revenue trend indicates that higher successful bookings from specific custom
 **Cancellation Analysis:**
 What factors strongly correlate with cancellations, and can we predict potential cancellations based on certain variables?
 It was found that bookings made with no deposit had the highest cancellation rate of 67%, followed by those under the non-refundable deposit type with a cancellation rate of 33%. Among booking channels, online travel agents exhibited 
-the highest cancellation rate of 72%, while offline travel agents had a 19% cancellation rate. In terms of customer type, transient customers had the highest cancellation rate of 83%, followed by transient-party customers at 14.5%.
+the highest cancellation rate of 43%, while offline travel agents had a 34% cancellation rate. In terms of customer type, transient customers had the highest cancellation rate of 83%, followed by transient-party customers at 14.5%.
 remain1
 ![](0011.png)
-![](0010.png)
+
 **Comparison of Revenue Loss from Cancellations:**
 How does the revenue loss from cancellations compare across different customer segments and distribution channels?
 The revenue loss due to cancellation was highest among transient customers, valued at $12 million, representing 88% of the total loss, averaging $2.4 million annually. Following this, online travel agents experienced a total revenue loss of $11 million, representing 82% of the total loss, averaging $2.2 million per annum.
@@ -154,9 +154,6 @@ Corporate bookings accounted for 6% of the total bookings, totalling 6,677. The 
 
 **Time-to-Event Analysis:**
 In analyzing lead time (ranging from 0 to 737), I segmented it into four equal parts: Short Time, Mid Time, Long Time, and Extended Time, corresponding to multiples of 1, 2, 3, and 4, respectively. The Short Time segment generated the highest revenue, totalling $24 million, representing 80% of the total revenue. Conversely, the Extended segment generated the least revenue. This illustrates that lead time significantly impacts revenue, with longer lead times resulting in lower revenue. Moreover, the cancellation rate is higher among extended customers, accounting for 39% of total cancellations, whereas the Short-Time segment exhibited the lowest cancellation rate at 13%.
-
-**Comparison of Online and Offline Travel Agents:**
-Online bookings displayed a higher cancellation rate at 21% compared to offline bookings, which stood at 17%. Despite this, online travel agents contributed more revenue, totalling $18 million, constituting 58% of the generated revenue. In contrast, offline travel agents generated $7 million, accounting for 24% of the total revenue.
 
 **Findings/ Insight**
 Based on the comprehensive analysis conducted, several key findings emerged:
